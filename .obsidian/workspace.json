@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c809859b04561e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "furniture-procurement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3873a3283ef27c97",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "furniture-procurement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "furniture-procurement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "furniture-procurement.md"
               }
             }
           }
@@ -147,9 +160,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "70d12c657efab950",
+  "active": "c809859b04561e91",
   "lastOpenFiles": [
-    "appliance-procurement.md",
-    "README.md"
+    "README.md",
+    "choosing-a-home.md",
+    "appliance-procurement.md"
   ]
 }
