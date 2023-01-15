@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1936f897b4b8e4f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9339828fe41c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d12c657efab950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3873a3283ef27c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Appliance Procurement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06c384439015cfa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a46a20f68d618aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc6f92284b2af8a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79157fd22ed0c48b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e713b58aa087705",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a93a1a72b90c67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c25801585d791e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d6f04d3c57684e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Appliance Procurement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d01cbcd3b590ef5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Appliance Procurement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a9aa1e55f5ebd19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "351ba96a4ad24eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Appliance Procurement.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3873a3283ef27c97",
+  "lastOpenFiles": [
+    "README.md",
+    "Appliance Procurement.md"
+  ]
+}
