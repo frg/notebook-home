@@ -10,4 +10,8 @@
 ## Bathroom
 * If the sink has a push-to-open drain, make sure to occasionally close and open repeatedly a few times. Over time, especially in areas with a hard water, the lime in the water will accumulate against the mechanism and jam it up. Unjamming the mechanism is a frustrating task
 * Be aware of any warping or expanding of any wooden furniture in a bathroom. Over time due to the moisture within a room of this kind it is expected that wood would degrade over time. However, depending on the wooden item this can be delayed years into its lifetime
-* Be aware of any cracks formed over time within the shower floor. Hairline cracks often take months until serious damage is caused, left unchecked this can become a real headache. Depending on the existing sealing, re-grouting or re-sealing would solve this issue
+* Be aware of any cracks formed over time within the shower floor, between the tiles. Hairline cracks often take months until serious damage is caused, left unchecked this can become a real headache. Depending on the existing sealing, re-grouting or re-sealing would solve this issue
+
+## Dryer
+* Before each cycle the lint filter usually found around the rim of the dryer door needs to be cleaned. Starting the cycle without cleaning this filter will result in the load stopping prematurely due to the clogged filter or ending with a wet load
+* Depending on the usage of the dryer, the larger filter needs to be cleaned at regular intervals. The length of the interval can be determined by occationally checking the filter without cleaning it until it seems sufficiently full. This filter can usually be found at the bottom of the dryer behind a large opening
