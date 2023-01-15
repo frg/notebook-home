@@ -1,5 +1,5 @@
 # Home Notebook
 
 ## Guides
-* [Appliance procurement](<Appliance Procurement>)
+* [Appliance procurement](<appliance-procurement.md>)
 * [Choosing a home](<Choosing a home>)
