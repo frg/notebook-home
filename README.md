@@ -6,6 +6,7 @@ This notebook is aimed at helping guide people through the processes of buying a
 * [Appliance procurement](<appliance-procurement.md>)
 * [Choosing a home](<choosing-a-home.md>)
 * [Furniture procurement](<furniture-procurement.md>)
+* [Maintenance](<maintenance.md>)
 
 ## Contributing
 For anyone familiar with git contibutions are welcome and encouraged. People unfamiliar with git can submit contributions through the email linked with this acount.
